@@ -1,5 +1,5 @@
 # 💫 About Me:
-💡 I love coding systems that matter – from smart attendance management to AI-based assistants. <br>Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** <br>🔧 I've built projects like **studentsmart attendance management**, **Ai resume generator** – all focused on functionality, real use-cases, and clean UI/UX.
+💡 I love coding systems that matter – from smart attendance management to AI-based assistants. <br>Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** <br>🔧 I've built projects like **Ai resume generator** – all focused on functionality, real use-cases, and clean UI/UX.
 
 
 ## 🌐 Socials:
