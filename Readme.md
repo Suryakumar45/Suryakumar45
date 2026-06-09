@@ -1,50 +1,27 @@
-# Surya Kumar - Full Stack Developer
+# 💫 About Me:
+💡 I love coding systems that matter – from smart attendance management to AI-based assistants. <br>Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** <br>🔧 I've built projects like **studentsmart attendance management**, **Ai resume generator** – all focused on functionality, real use-cases, and clean UI/UX.
 
-Welcome to my portfolio repository! I am Surya Kumar, a passionate Full Stack Developer with expertise in a wide range of technologies.
 
-## 👋 About Me
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/harishsuryaa_?igsh=MTdzZG03Ynp6OGY1MA==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/surya-kumar-aa6975326?utm_source=share_via&utm_content=profile&utm_medium=member_android) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:suryaharish4529@gmail.com) 
 
-- **Name:** Surya Kumar  
-- **Role:** Full Stack Developer  
-- **Tech Stacks:** HTML, CSS, JavaScript, Python, MySQL, Java, C
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Suryakumar45&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Suryakumar45&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Suryakumar45&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🚀 Skills & Technologies
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Suryakumar45&theme=blue-green&no-frame=false&no-bg=true&margin-w=4)
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** Python, Java, C
-- **Database:** MySQL
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 📂 Projects
-
-Showcase your best projects here.  
-*(Add project links and descriptions as needed)*
-
-## 🛠️ Installation & Usage
-
-Clone the repository:
-```bash
-git clone https://github.com/Suryakumar45/your-repo-name.git
-```
-Follow project-specific setup instructions in each project folder.
-
-## 💡 Usage Example
-
-*(Add usage examples for your projects or code snippets here)*
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests.
-
-## 📄 License
-
-This repository is licensed under the MIT License.  
-*(Update if using a different license)*
-
-## 📬 Contact
-
-- [GitHub](https://github.com/Suryakumar45)
-- *(Add email or other contact information if desired)*
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Suryakumar45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://komarev.com/ghpvc/?username=Suryakumar45&icon=4&color=0)](https://visitcount.itsvg.in)
 
-*Thank you for visiting my portfolio!*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
