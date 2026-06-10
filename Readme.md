@@ -22,6 +22,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Suryakumar45&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Suryakumar45&icon=4&color=0)](https://visitcount.itsvg.in)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suryakumar45&style=flat-square&color=blue" alt="profile views" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
