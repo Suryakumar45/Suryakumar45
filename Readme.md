@@ -8,7 +8,7 @@ Hi there 👋, I'm Surya .k
 ### 📖 Currently Learning
 
 ```
-Currently learning Full-Stack Web Development with React, Python, FastAPI, and modern database technologies to build scalable web applications.
+Currently learning Full-Stack Web Development with React, Python, FastAPI, and modern database technologies to build scalable web applications
 ```
 
 
