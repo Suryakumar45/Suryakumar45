@@ -1,56 +1,97 @@
-<h1 align="center">🌌 SYSTEM: Surya K</h1>
-<p align="center"><em>BCA Student & Aspiring Full-Stack Developer</em></p>
+<h1 align="center">Hey 👋, I'm Surya kumar</h1>     
+<h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3>  
+     
+💡 Passionate about building real-world solutions using Python, JavaScript, AI, and Supabase.
+ 
+     
+🎯 Long-term goal? To become a pro **Software Developer**, master **AI/ML**, and launch products that *don’t just trend — they transform*.  
+  
+📬 Always down to collaborate, learn, and build the future — one line of code at a time. Let's connect!
+    
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=28&duration=3000&pause=800&color=8B5CF6&background=0D1117&center=true&vCenter=true&width=700&height=55&lines=Hi%20there%20%F0%9F%91%8B%2C%20I%27m%20Surya%20K%3BBCA%20Student%20%26%20Aspiring%20Full-Stack%20Developer%3BWelcome%20to%20my%20profile" />
-</p>
+---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Suryakumar45&label=Profile%20Views&color=8b5cf6&style=flat" />
-</p>
+
+  
+## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
+
+🔭 I’m currently working as a **freelancer** — building websites, web apps, and  Supabase, and more.
+
+📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
+
+---
+
+  
+### 📊Contribution Board     
+<img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" /> 
 
 
 ---
 
 
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A"><h3>🌿 Profile</h3><p><em>BCA Student & Aspiring Full-Stack Developer</em></p><p>Passionate BCA student who enjoys building modern web applications, learning new technologies and solving real-world problems.</p><p>🎓 Bachelor of Computer Applications</p><p>📍 Coimbatore, India</p></td></tr></table>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Uxgh2RNJtD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phoenixlive_19) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@Phoenixlive19)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinselvaraj19@gmail.com) 
 
 
 ---
 
 
-<h2 align="center">⚡ System Stats</h2>
+## 🏅 Achievements & Certifications
+- 🧠 **NPTEL Certified** – Data Structures using Python  
+- 🎨 **Graphic Designing Certified** – CorelDraw , Canva
+- 🛠 **Personal Projects:**
+  - NAT Parking Assistance– Frontend(HTML,CSS,JS) + Backend + Supabase CRUD
+  - Emergency Route Optimizer – Google Maps + Flask
+  - Scholarship Finder – AI-powered guidance system
+  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with Modern Ui/Ux.
+ 
+    
+---
+ 
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Suryakumar45&show_icons=true&hide_border=true&title_color=8b5cf6&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0A0E1A" width="48%" />  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suryakumar45&hide_border=true&stroke=8b5cf6&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6&background=0D1117&currStreakNum=c9d1d9&sideNums=c9d1d9" width="48%" /></div>
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  
+---
 
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AshwinSelvaraj-19&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+## 📍 Current Focus
+
+* 🤖 Building AI-powered applications and intelligent systems
+* 🐍 Strengthening Python, Backend Development, and APIs
+* ☁️ Working with Supabase and modern database technologies
+* 🔐 Exploring Cybersecurity and Threat Detection systems
+* 🚀 Building projects that solve real-world problems
 
 ---
 
+## ✨ Fun Facts
 
-<h2 align="center">⚡ Skills</h2>
-
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A"><b>Languages</b><br/><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></td></tr></table>
-
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A"><b>Frontend</b><br/><img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html&logoColor=white" /> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></td></tr></table>
-
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A"><b>Backend</b><br/><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /></td></tr></table>
-
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A"><b>Databases</b><br/><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" /></td></tr></table>
-
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A"><b>Tools</b><br/><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=vscode&logoColor=white" /></td></tr></table>
-
+* 💡 I enjoy turning ideas into working software
+* 🛠️ Most of my learning comes from building real projects
+* 🤖 Fascinated by AI, automation, and future technologies
+* 🎯 Goal: Become a Software Developer specializing in AI-driven solutions
 
 ---
-
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suryakumar45&layout=compact&hide_border=true&title_color=8b5cf6&text_color=c9d1d9&bg_color=0A0E1A" width="48%" /></div>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suryakumar45&bg_color=0D1117&color=8b5cf6&line=8b5cf6&point=A78BFA&area=true&hide_border=true" width="95%" />
+  <img src="https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&style=flat-square&color=blue" alt="profile views" />
 </p>
 
-<table align="center" width="100%"><tr><td align="center" bgcolor="0A0E1A">🌱 <b>Learning</b><br/>Full-Stack Web Development with React, Python, FastAPI, and modern database technologies</td></tr></table>
 
-<p align="center">
-✨ From <a href="https://github.com/Suryakumar45">@Suryakumar45</a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
