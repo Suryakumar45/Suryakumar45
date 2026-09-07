@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:22C55E,100:09111C&height=180&section=header&text=Surya&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Designing%20Intuitive%2C%20Meaningful%20%26%20Delightful%20Human%20Interfaces&descSize=13&descAlign=50&descAlignY=68" alt="surya Banner" width="100%" />
+  <img src="./banner.svg" alt="surya Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm surya 👋</h1>
@@ -94,7 +94,12 @@ Obsessed with micro-interactions, typographic rhythm, and design token architect
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Suryakumar45&theme=dark&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Achievement-🦈%20Pull%20Shark-0284c7?style=flat-square" alt="🦈%20Pull%20Shark" />
+  <img src="https://img.shields.io/badge/Achievement-🧠%20Galaxy%20Brain-7c3aed?style=flat-square" alt="🧠%20Galaxy%20Brain" />
+  <img src="https://img.shields.io/badge/Achievement-⭐%20Starstruck-eab308?style=flat-square" alt="⭐%20Starstruck" />
+  <img src="https://img.shields.io/badge/Achievement-⚡%20Quickdraw-10b981?style=flat-square" alt="⚡%20Quickdraw" />
+  <img src="https://img.shields.io/badge/Achievement-👥%20Pair%20Extraordinaire-6366f1?style=flat-square" alt="👥%20Pair%20Extraordinaire" />
+  <img src="https://img.shields.io/badge/Achievement-❄️%20Arctic%20Vault-0ea5e9?style=flat-square" alt="❄️%20Arctic%20Vault" />
 </p>
 
 ## $ cat Contribution Activity
