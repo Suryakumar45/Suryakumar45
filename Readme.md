@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=00F2FE&height=180&section=header&text=surya&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Build%20-%20Automate%20-%20Create%20Impact&descSize=13&descAlign=50&descAlignY=68" alt="surya Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=ff0f0f&height=180&section=header&text=surya&fontSize=38&fontColor=ffffff&fontAlign=50&fontAlignY=45&desc=Build%20-%20Automate%20-%20Create%20Impact&descSize=13&descAlign=50&descAlignY=68" alt="surya Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi there, I'm surya 👋</h1>
 
 <p align="center">
   <a href="https://yashcodes.dev">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F2FE&center=true&vCenter=true&width=450&lines=AI%20%26%20Data%20Science%20Student%20%F0%9F%8E%93;LLM%20%26%20Autonomous%20Agent%20Builder%20%F0%9F%A4%96;Open%20Source%20Contributor%20%E2%9A%A1;Automation%20Enthusiast%20%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=ff0f0f&center=true&vCenter=true&width=450&lines=AI%20%26%20Data%20Science%20Student%20%F0%9F%8E%93;LLM%20%26%20Autonomous%20Agent%20Builder%20%F0%9F%A4%96;Open%20Source%20Contributor%20%E2%9A%A1;Automation%20Enthusiast%20%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yash-codes&label=PROFILE%20VIEWS&color=00F2FE&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=yash-codes&label=PROFILE%20VIEWS&color=ff0f0f&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -79,18 +79,18 @@ I build AI-powered tools, automation systems and modern web applications that so
 ## 🚀 GitHub Analytics
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/yash-codes?style=for-the-badge&color=00F2FE&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/followers/yash-codes?style=for-the-badge&color=ff0f0f&label=Followers" alt="Followers" />
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fyash-codes&query=%24.public_repos&label=Repositories&color=3b82f6&style=for-the-badge" alt="Repositories" />
   <img src="https://img.shields.io/github/stars/yash-codes?style=for-the-badge&color=eab308&label=Total%20Stars" alt="Stars" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=yash-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=00F2FE&icon_color=00F2FE&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yash-codes&layout=compact&theme=tokyonight&hide_border=true&title_color=00F2FE&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=yash-codes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&title_color=ff0f0f&icon_color=ff0f0f&text_color=94a3b8&bg_color=0d1117" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=yash-codes&layout=compact&theme=tokyonight&hide_border=true&title_color=ff0f0f&text_color=94a3b8&bg_color=0d1117" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yash-codes&theme=tokyonight&hide_border=true&stroke=00F2FE&ring=00F2FE&fire=00F2FE" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=yash-codes&theme=tokyonight&hide_border=true&stroke=ff0f0f&ring=ff0f0f&fire=ff0f0f" alt="GitHub Streak" />
 </p>
 
 ## 🚀 Contribution Activity
