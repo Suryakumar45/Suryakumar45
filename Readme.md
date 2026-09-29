@@ -1,97 +1,73 @@
-<h1 align="center">Hey 👋, I'm Surya kumar</h1>     
-<h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3>  
-     
-💡 Passionate about building real-world solutions using Python, JavaScript, AI, and Supabase.
- 
-     
-🎯 Long-term goal? To become a pro **Software Developer**, master **AI/ML**, and launch products that *don’t just trend — they transform*.  
-  
-📬 Always down to collaborate, learn, and build the future — one line of code at a time. Let's connect!
-    
+![Animated Developer Banner](https://media.giphy.com/media/wiTY1JMB6xvUUjuPRH/giphy.gif)
 
----
-
-
-  
-## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
-
-🔭 I’m currently working as a **freelancer** — building websites, web apps, and  Supabase, and more.
-
-📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
-
----
-
-  
-### 📊Contribution Board     
-<img src="https://pacman.abozanona.me?username=Suryakumar45" /> 
-
-
----
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Uxgh2RNJtD)  
-
-
----
-
-
-## 🏅 Achievements & Certifications
-- 🧠 **NPTEL Certified** – Data Structures using Python  
-- 🎨 **Graphic Designing Certified** – CorelDraw , Canva
-- 🛠 **Personal Projects:**
-  - NAT Parking Assistance– Frontend(HTML,CSS,JS) + Backend + Supabase CRUD
-  - Emergency Route Optimizer – Google Maps + Flask
-  - Scholarship Finder – AI-powered guidance system
-  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with Modern Ui/Ux.
- 
-    
----
- 
-
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-  
----
-
-## 📈 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=AshwinSelvaraj-19&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-## 📍 Current Focus
-
-* 🤖 Building AI-powered applications and intelligent systems
-* 🐍 Strengthening Python, Backend Development, and APIs
-* ☁️ Working with Supabase and modern database technologies
-* 🔐 Exploring Cybersecurity and Threat Detection systems
-* 🚀 Building projects that solve real-world problems
-
----
-
-## ✨ Fun Facts
-
-* 💡 I enjoy turning ideas into working software
-* 🛠️ Most of my learning comes from building real projects
-* 🤖 Fascinated by AI, automation, and future technologies
-* 🎯 Goal: Become a Software Developer specializing in AI-driven solutions
-
----
+# Hi, I'm Surya Kumar 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://api.dicebear.com/10.x/icons/png?iconVariant=lightning&amp;backgroundColor=701a75&amp;iconColor=f9a8d4&amp;size=320&amp;radius=14" alt="Surya Kumar" width="130" />
 </p>
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Full Stack Developer | Python | React | Data Enthusiast**
+
+Currently working on Building data-driven web applications with Python and React
+
+📍 Coimbatore, India
+
+
+[![GitHub](https://img.shields.io/badge/GitHub-C084FC?style=flat)](https://github.com/surya-dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-8B5CF6?style=flat)](https://linkedin.com/in/surya-demo)
+[![Email](https://img.shields.io/badge/Email-22D3EE?style=flat)](mailto:surya.demo@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-22D3EE?style=flat)](https://example.com)
+
+
+## About Me
+
+Passionate developer building modern web applications and exploring data-driven solutions.
+- 🔭 I'm currently learning **Advanced Python patterns and FastAPI**
+- 🌱 I'm currently working on **A data analysis dashboard for visualising project metrics**
+- 👯 I'm looking to collaborate on **Open source contributions and backend engineering roles**
+- 💡 Interests: Data analysis, REST APIs, clean architecture
+
+## Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat) ![React](https://img.shields.io/badge/React-61DAFB?style=flat) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat) ![SQL](https://img.shields.io/badge/SQL-8B5CF6?style=flat) ![Git](https://img.shields.io/badge/Git-F05032?style=flat) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat) ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat)
+
+
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=surya-dev&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=surya-dev&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=surya-dev&theme=radical)
+
+## Projects
+
+### README Generator
+
+A web application that helps developers create professional GitHub Profile README files using a simple visual builder.
+
+[Source](https://github.com/surya-dev/readme-generator) · [Live Demo](https://example.com)
+
+
+---
+
+### Data Analysis Dashboard
+
+An interactive dashboard that loads raw datasets, cleans them with Python, and presents the findings as charts.
+
+[Source](https://github.com/surya-dev/data-analysis-dashboard) · [Live Demo](https://example.com)
+
+
+---
+
+### Portfolio Website
+
+A responsive personal portfolio that showcases projects, technical skills, and recent writing in a fast, minimal design.
+
+[Source](https://github.com/surya-dev/portfolio-website) · [Live Demo](https://example.com)
+
+
+---
+
+
+
+---
+*Generated with [README Generator](https://github.com)*
